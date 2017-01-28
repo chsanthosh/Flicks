@@ -29,6 +29,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+Direct link to the gif: https://media.giphy.com/media/l0ExdvWxvLDecj05y/source.gif
 
 <img src='https://media.giphy.com/media/l0ExdvWxvLDecj05y/source.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
